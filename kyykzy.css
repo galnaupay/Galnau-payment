@@ -18,7 +18,7 @@
 
 body {
     background: linear-gradient(rgba(15, 15, 15, 0.9), rgba(15, 15, 15, 0.9)), 
-                url('https://files.catbox.moe/ew33a6.jpg') no-repeat center center fixed;
+                url('https://telegra.ph/file/1a3eefcdbd1cbe6176c62.jpg') no-repeat center center fixed;
     background-size: cover;
     min-height: 100vh;
 }
@@ -33,7 +33,7 @@ body {
 
 #loading-screen {
     background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), 
-                url('https://files.catbox.moe/ew33a6.jpg') no-repeat center center fixed;
+                url('https://telegra.ph/file/1a3eefcdbd1cbe6176c62.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
